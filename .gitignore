@@ -1,6 +1,7 @@
 .idea
 .vscode
 dist
+gulp/version.json
 node_modules
 package-lock.json
 *.zip
